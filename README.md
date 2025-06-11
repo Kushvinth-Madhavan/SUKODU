@@ -2,7 +2,7 @@
     <h1 align="center">SUKODU</h1>
 </p>
 <p align="center">
-    <em><code>❯ Kushvinth Madhavan </code></em>
+    <em><code>❯ Kushvinth Madhavan && Siddharth S</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/Kushvinth-Madhavan/SUKODU?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -25,84 +25,6 @@
 SUKODU is a 🐍 Python-based Sudoku solver that provides an efficient solution to even the most complex puzzles. The project is designed with simplicity and usability in mind, allowing users to input Sudoku puzzles of varying difficulty and receive instant solutions ⚡. Built to work with basic Python libraries, SUKODU is perfect for beginners learning algorithms and experienced developers working on optimization problems 🧠.
 
 ---
-
-## 👾 Features
-
-- 🚀 Instant Puzzle Solving: Solves Sudoku puzzles of any difficulty within seconds.
-- 🧩 Optimized Algorithms: Uses backtracking and constraint satisfaction techniques for fast solutions.
-- 🛠️ Modular Code: Clean, easy-to-understand, and extendable codebase.
-- 💻 User-Friendly Interface: Simple command-line execution with clear output for each puzzle.
-- ✅ Test Suite: Includes automated tests to ensure all functions work as expected.
-
----
-
-## 📂 Repository Structure
-
-```sh
-└── SUKODU/
-    ├── .gitignore
-    ├── LICENSE
-    ├── README.md
-    └── Sukodu-Solver.py
-```
-
----
-
-## 🧩 Modules
-
-<details closed><summary>.</summary>
-
-| File | Summary |
-| --- | --- |
-| [Sukodu-Solver.py](https://github.com/Kushvinth-Madhavan/SUKODU/blob/main/Sukodu-Solver.py) | <code>❯ 💡 Core module with Sudoku solving logic, including the backtracking algorithm and puzzle validation functions.</code> |
-
-</details>
-
----
-
-## 🚀 Getting Started
-
-### 🔖 Prerequisites
-
-**Python**: `version 3.0 and above`
-
-### 📦 Installation
-
-Build the project from source:
-
-1. Clone the SUKODU repository:
-```sh
-❯ git clone https://github.com/Kushvinth-Madhavan/SUKODU/
-```
-
-2. Navigate to the project directory:
-```sh
-❯ cd SUKODU
-```
-
-3. Install the required dependencies:
-```sh
-❯ pip install -r requirements.txt
-```
-
-### 🤖 Usage
-
-To run the project, execute the following command:
-
-```sh
-❯ python main.py
-```
-
-### 🧪 Tests
-
-Execute the test suite using the following command:
-
-```sh
-❯ pytest
-```
-
----
-
 
 ## 🤝 Contributing
 
